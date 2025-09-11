@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![xV's GitHub stats](https://github-readme-stats-liart-kappa-hgkyb1bvyx.vercel.app/api?username=jcnp97&theme=maroongold&show_icons=true)
+![xV's Top Languages](https://github-readme-stats-liart-kappa-hgkyb1bvyx.vercel.app/api/top-langs/?username=jcnp97&layout=compact&theme=maroongold)
 <!--
 **jcnp97/jcnp97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![xV's GitHub stats](github-readme-stats-liart-kappa-hgkyb1bvyx.vercel.app/api?username=jcnp97)](https://github.com/anuraghazra/github-readme-stats)
