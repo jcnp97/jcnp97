@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## Github Statistics
 <a href="https://github.com/jcnp97">
   <img height=200 align="center" src="https://github-readme-stats-liart-kappa-hgkyb1bvyx.vercel.app/api?username=jcnp97&theme=maroongold&show_icons=true" />
 </a>
