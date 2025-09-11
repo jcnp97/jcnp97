@@ -46,7 +46,7 @@ I’m a licensed Mechanical Engineer exploring the world of Software Development
   <img height=200 align="center" src="https://github-readme-stats-liart-kappa-hgkyb1bvyx.vercel.app/api?username=jcnp97&theme=maroongold&show_icons=true" />
 </a>
 <a href="https://github.com/jcnp97">
-  <img height=200 align="center" src="https://github-readme-stats-liart-kappa-hgkyb1bvyx.vercel.app/api/top-langs?username=jcnp97&layout=compact&langs_count=8&card_width=320&theme=maroongold" />
+  <img width=380 align="center" src="https://github-readme-stats-liart-kappa-hgkyb1bvyx.vercel.app/api/top-langs?username=jcnp97&layout=compact&langs_count=8&card_width=320&theme=maroongold" />
 </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer" alt="footer"/>
