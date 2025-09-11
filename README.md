@@ -4,7 +4,7 @@
   <img height=200 align="center" src="https://github-readme-stats-liart-kappa-hgkyb1bvyx.vercel.app/api?username=jcnp97&theme=maroongold&show_icons=true" />
 </a>
 <a href="https://github.com/jcnp97">
-  <img height=200 align="center" src="https://github-readme-stats-liart-kappa-hgkyb1bvyx.vercel.app/api/top-langs?username=jcnp97&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-liart-kappa-hgkyb1bvyx.vercel.app/api/top-langs?username=jcnp97&layout=compact&langs_count=8&card_width=320&theme=maroongold" />
 </a>
 <!--
 **jcnp97/jcnp97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
