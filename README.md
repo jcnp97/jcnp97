@@ -31,15 +31,15 @@ I’m a licensed Mechanical Engineer exploring the world of Software Development
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="45" height="45"/>
 
+## Certifications
+<img src="./assets/aws-certified-cloud-practitioner.png" alt="aws" width="96" height="96"/>&nbsp;
+<img src="./assets/linux-essentials.png" alt="aws" width="96" height="96"/>&nbsp;
+
 ## Projects
 <p align="center">
   <a href="https://d479.pages.dev/"><img src="https://img.shields.io/badge/Taniti%20Tourism-DEMO-white?style=for-the-badge&logo=html5"></a>
   <a href="https://www.cozyvanilla.net/"><img src="https://img.shields.io/badge/Cozy%20Vanilla-DEMO-white?style=for-the-badge&logo=html5"></a>
 </p>
-
-## Certifications
-<img src="./assets/aws-certified-cloud-practitioner.png" alt="aws" width="96" height="96"/>&nbsp;
-<img src="./assets/linux-essentials.png" alt="aws" width="96" height="96"/>&nbsp;
 
 ## Github Statistics
 <a href="https://github.com/jcnp97">
