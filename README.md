@@ -16,10 +16,6 @@ I’m a licensed Mechanical Engineer exploring the world of Software Development
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
 
-###### Deployment & Cloud Services:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
-
 ###### Database Management:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="45" height="45"/>
@@ -40,6 +36,10 @@ I’m a licensed Mechanical Engineer exploring the world of Software Development
   <a href="https://d479.pages.dev/"><img src="https://img.shields.io/badge/Taniti%20Tourism-DEMO-white?style=for-the-badge&logo=html5"></a>
   <a href="https://www.cozyvanilla.net/"><img src="https://img.shields.io/badge/Cozy%20Vanilla-DEMO-white?style=for-the-badge&logo=html5"></a>
 </p>
+
+## Certifications
+<img src="./assets/aws-certified-cloud-practitioner.png" alt="aws" width="96" height="96"/>&nbsp;
+<img src="./assets/linux-essentials.png" alt="aws" width="96" height="96"/>&nbsp;
 
 ## Github Statistics
 <a href="https://github.com/jcnp97">
