@@ -58,7 +58,7 @@ I’m a licensed Mechanical Engineer exploring the world of Software Development
 
 ## Github Statistics
 <a href="https://github.com/jcnp97">
-  <img width=395 align="center" src="https://github-readme-stats-liart-kappa-hgkyb1bvyx.vercel.app/api?username=jcnp97&theme=maroongold&show_icons=true" />
+  <img width=395 align="center" src="https://github-readme-stats-liart-kappa-hgkyb1bvyx.vercel.app/api?username=jcnp97&theme=maroongold&show_icons=true&include_all_commits=true&number_format=long" />
 </a>
 <a href="https://github.com/jcnp97">
   <img align="center" src="https://github-readme-stats-liart-kappa-hgkyb1bvyx.vercel.app/api/top-langs?username=jcnp97&layout=compact&langs_count=8&card_width=320&theme=maroongold" />
