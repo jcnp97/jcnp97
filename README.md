@@ -37,10 +37,23 @@ I’m a licensed Mechanical Engineer exploring the world of Software Development
 <img src="./assets/linux-essentials.png" alt="aws" width="96" height="96"/>&nbsp;
 
 ## Projects
+###### HTML/CSS/JS:
 <p align="center">
   <a href="https://d479.pages.dev/"><img src="https://img.shields.io/badge/Taniti%20Tourism-DEMO-white?style=for-the-badge&logo=html5"></a>
   <a href="https://www.cozyvanilla.net/"><img src="https://img.shields.io/badge/Cozy%20Vanilla-DEMO-white?style=for-the-badge&logo=html5"></a>
 </p>
+
+###### Java:
+**Core Libray Project (for Minecraft)**: A large-scale, feature-rich library plugin built for personal use and as a foundation for other Minecraft plugins. The project demonstrates practical experience with Java development, API integrations, and scalable system design.
+
+**Technical Highlights:**
+<li>API Integrations: Seamless integration with multiple external and internal APIs.</li>
+<li>File Management: Creation, reading, and writing of structured data in both JSON and YAML formats.</li>
+<li>Database Management: Supports MySQL and SQLite with connection pooling for efficient data handling.</li>
+<li>Caching Solutions: Implements Caffeine for in-memory caching and Redis for distributed cache support.</li>
+<li>Utility Functions: Comprehensive string manipulation and formatting utilities.</li>
+<li>Java Core Usage: Strong use of collections (HashSet, HashMap, ArrayList, etc.), objects, interfaces, and enums to build reusable and maintainable systems.</li>
+<li>Annotations: Leverages custom and standard Java annotations to improve code clarity, configuration, and runtime behavior.</li>
 
 ## Github Statistics
 <a href="https://github.com/jcnp97">
