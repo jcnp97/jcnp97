@@ -44,7 +44,7 @@ I’m a licensed Mechanical Engineer exploring the world of Software Development
 </p>
 
 ###### Java:
-**[Core Libray Project (for Minecraft)](https://github.com/jcnp97/vLib)**: A large-scale, feature-rich library plugin built for personal use and as a foundation for other Minecraft plugins. The project demonstrates practical experience with Java development, API integrations, and scalable system design.
+**[Core Libray Project (for Minecraft)](https://github.com/jcnp97/CozyLib)**: A large-scale, feature-rich library plugin built for personal use and as a foundation for other Minecraft plugins. The project demonstrates practical experience with Java development, API integrations, and scalable system design.
 
 **Technical Highlights:**
 <li>API Integrations: Seamless integration with multiple external and internal APIs.</li>
